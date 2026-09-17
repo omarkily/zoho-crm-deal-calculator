@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.pem
+.env
+.env.*
+ZET-debug.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
